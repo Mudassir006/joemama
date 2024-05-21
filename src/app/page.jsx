@@ -67,7 +67,7 @@ export default function Home() {
               Agent Driven Data Extraction
             </span>
             <form onSubmit={handleSubmit} id="my-form"
-        action="https://script.google.com/macros/s/AKfycbzVAr6RfYIfzeTCXe7xllWH9zEFP9kDFwVl4ZQ1k_tY6zB8kPBt6izPEC_rnYolOKU4kg/exec"
+        action="https://script.google.com/macros/s/AKfycbykBqhA-Cspq55z8dZn5mls-2R1dw0IEkicwHPsGRXBSluLzSFXbkKHupQaWHnaTvONmg/exec"
         className="flex border border-neutral-700 rounded-xl overflow-hidden"
       >
         <input
